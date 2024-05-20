@@ -7,6 +7,4 @@ let media = (n1 + n2)/2
 
 if(media>=6){
     console.log("PARABÉNS! Você foi aprovado!")
-}else{
-    console.log("Você foi reprovado")
 }
